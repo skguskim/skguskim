@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=240&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97%20%E2%80%94%20Let%27s%20build%20something%20awesome%20%F0%9F%A4%96&fontSize=52&fontAlign=50&animation=fadeIn)
+
 
 <p align="center">
   <a href="https://github.com/skguskim"><img src="https://komarev.com/gbpvc/?username=skguskim&color=blueviolet" alt="profile views"></a>
