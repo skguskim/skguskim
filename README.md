@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=240&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=54&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=240&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97%20%E2%80%94%20Let%27s%20build%20something%20awesome%20%F0%9F%A4%96&fontSize=52&fontAlign=50&animation=fadeIn)
 
 <p align="center">
   <a href="https://github.com/skguskim"><img src="https://komarev.com/gbpvc/?username=skguskim&color=blueviolet" alt="profile views"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+  <a href="mailto:skguskim@g.seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/skguskim/"><img src="https://img.shields.io/badge/LinkedIn-%20Profile-blue?logo=linkedin"></a>
   <a href="https://skguskim.tistory.com/"><img src="https://img.shields.io/badge/Blog-%20Tech%20Notes-black?logo=tistory"></a>
 </p>
@@ -10,12 +10,13 @@
 ---
 
 ## 👋 Hi there
-안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.  .
+안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.
 
-- 🔭 **현재:** AI 보안 연구
-- 🌱 **학습:** `AI`, `Secure Coding`, `Cryptography`, `Digital Forensics`
-- 🧩 **관심:** `AI Red Teaming`, `LLM Security`, `Vulnerability Analysis`
-- 📫 **연락:** skguskim@g.seoultech.ac.kr
+- 🔭 **Current:** Undergraduate student
+- 🌱 **Studying:** `AI`, `Secure Coding`, `Cryptography`, `Digital Forensics`, `LLM Vulnerability`
+- 🧩 **Interests:** `AI Red Teaming`, `LLM Security`, `Digital Forensics`, `Vulnerability Analysis`
+- 📫 **Contact:** [skguskim@g.seoultech.ac.kr](mailto:skguskim@g.seoultech.ac.kr)
+
 
 ---
 
@@ -50,7 +51,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/LightGBM-017E7F?logo=lightgbm&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/XGBoost-EE0000?logo=xgboost&logoColor=white">&nbsp;
 
   <!-- CV / Scientific -->
@@ -63,8 +63,8 @@
   <!-- Dev / Ops -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white">&nbsp;
-
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">&nbsp;
+  
   <!-- Backend / Apps -->
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">&nbsp;
@@ -72,7 +72,6 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
