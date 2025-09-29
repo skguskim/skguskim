@@ -87,19 +87,6 @@
 
 > 더 많은 프로젝트는 아래 **Pinned Repositories**를 확인해 주세요!
 
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=transparent&langs_count=8" />
-</p>
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=skguskim&theme=transparent&hide_border=false" />
-</p>
-
 ---
 
 ## 📂 Featured Work
