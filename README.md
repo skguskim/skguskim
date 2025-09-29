@@ -13,7 +13,7 @@
 안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.  .
 
 - 🔭 **현재:** AI 보안 연구
-- 🌱 **학습:** `AI` `Secure Coding`, `Cryptography`, `Digital Forensics`
+- 🌱 **학습:** `AI`, `Secure Coding`, `Cryptography`, `Digital Forensics`
 - 🧩 **관심:** `AI Red Teaming`, `LLM Security`, `Vulnerability Analysis`
 - 📫 **연락:** skguskim@g.seoultech.ac.kr
 
@@ -21,28 +21,55 @@
 
 ## 🚀 Experience & Activities
 
-- **CIS Lab 학부연구생** · *2025.05 ~ Present*
+- **CIS Lab 학부연구생**  *2025.05 ~ Present*
 
-- **STCE 보안 동아리** · *2025.05 ~ Present*
+- **STCE 보안 동아리**  *2025.05 ~ Present*
   - 교내 학술 동아리 임원진
   - 암호학 세미나 발표 진행
   - 머신러닝 스터디 팀장
 
-- **화이트햇 스쿨 3기 (Whitehat School)** · *2025.03 ~ 2025.09*
+- **화이트햇 스쿨 3기 (Whitehat School)**  *2025.03 ~ 2025.09*
 
-- **A.i.n.g 학술 동아리** · *2022.02 ~ 2023.12*
+- **A.i.n.g 학술 동아리**  *2022.02 ~ 2023.12*
   - 학과 학술 동아리, 보안 스터디 팀장
   - 적대적 공격 모델(Adversarial Attack) 관련 프로젝트 진행
 
 
 ## 🧰 Tech Stack
 <p>
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333">&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">&nbsp;
+
+  <!-- ML / DL -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/LightGBM-017E7F?logo=lightgbm&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-EE0000?logo=xgboost&logoColor=white">&nbsp;
+
+  <!-- CV / Scientific -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">&nbsp;
+
+  <!-- Dev / Ops -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white">&nbsp;
+
+  <!-- Backend / Apps -->
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">&nbsp;
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
