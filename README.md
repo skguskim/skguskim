@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+// Header 코드
+![header](https://capsule-render.vercel.app/api?type=타입_이름&color=컬러_종류_또는_코드&height=높이&section=header&text=텍스트)
+
+// 예시 코드
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 <!--
 **skguskim/skguskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
