@@ -10,13 +10,12 @@
 ---
 
 ## 👋 Hi there
-안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.  
-요즘은 **인공지능 보안(AI Security)**에 집중하고 있으며, **협업과 문서화**를 중요하게 생각합니다.
+안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.  .
 
 - 🔭 **현재:** AI 보안 연구
 - 🌱 **학습:** `AI` `Secure Coding`, `Cryptography`, `Digital Forensics`
 - 🧩 **관심:** `AI Red Teaming`, `LLM Security`, `Vulnerability Analysis`
-- 📫 **연락:** skguskim@example.com
+- 📫 **연락:** skgus3874@seoultech.ac.kr
 
 ---
 
@@ -33,7 +32,6 @@
 
 - **A.i.n.g 학술 동아리** · *2022.02 ~ 2023.12*
   - 학과 학술 동아리, 보안 스터디 팀장
-  - 사이버 공격 방어 대회 (CCE) 출전
   - 적대적 공격 모델(Adversarial Attack) 관련 프로젝트 진행
 
 
