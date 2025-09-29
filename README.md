@@ -1,7 +1,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/skguskim"><img src="https://komarev.com/gbpvc/?username=skguskim&color=blueviolet"></a>
   <a href="mailto:skguskim@g.seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/skguskim/"><img src="https://img.shields.io/badge/LinkedIn-%20Profile-blue?logo=linkedin"></a>
   <a href="https://skguskim.tistory.com/"><img src="https://img.shields.io/badge/Blog-%20Tech%20Notes-black?logo=tistory"></a>
