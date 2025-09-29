@@ -15,7 +15,7 @@
 - 🔭 **현재:** AI 보안 연구
 - 🌱 **학습:** `AI` `Secure Coding`, `Cryptography`, `Digital Forensics`
 - 🧩 **관심:** `AI Red Teaming`, `LLM Security`, `Vulnerability Analysis`
-- 📫 **연락:** skgus3874@seoultech.ac.kr
+- 📫 **연락:** skguskim@g.seoultech.ac.kr
 
 ---
 
