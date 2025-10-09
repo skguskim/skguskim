@@ -1,9 +1,7 @@
-
-
 <p align="center">
-  <a href="mailto:skguskim@g.seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/skguskim/"><img src="https://img.shields.io/badge/LinkedIn-%20Profile-blue?logo=linkedin"></a>
-  <a href="https://skguskim.tistory.com/"><img src="https://img.shields.io/badge/Blog-%20Tech%20Notes-black?logo=tistory"></a>
+  <a href="mailto:skguskim@g.seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/skguskim/"><img src="https://img.shields.io/badge/LinkedIn-%20Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://skguskim.tistory.com/"><img src="https://img.shields.io/badge/Blog-%20Tech%20Notes-black?logo=tistory" alt="Blog"></a>
 </p>
 
 ---
@@ -12,10 +10,8 @@
 안녕하세요, 서울과학기술대학교 인공지능응용학과 22학번 **김나현** 입니다.
 
 - 🔭 **Current:** Undergraduate student
-- 🌱 **Studying:** `AI`, `Secure Coding`, `Cryptography`, `Digital Forensics`, `LLM Vulnerability`
+- 🌱 **Studying:** `AI`, `Secure Coding`, `Cryptography`, `Digital Forensics`, `LLM Security`
 - 🧩 **Interests:** `AI Red Teaming`, `LLM Security`, `Digital Forensics`, `Vulnerability Analysis`
-- 📫 **Contact:** [skguskim@g.seoultech.ac.kr](mailto:skguskim@g.seoultech.ac.kr)
-
 
 ---
 
@@ -33,86 +29,90 @@
 - **A.i.n.g 학술 동아리**  *2022.02 ~ 2023.12*
   - 학과 학술 동아리, 보안 스터디 팀장
 
+---
+
+## ⚡ Projects
+
+- **HackLLM — 해킹하며 배우는 LLM 보안 (오픈소스)**  *2025.05 ~ 2025.08*  
+  OWASP LLM Top 10 취약점을 **실습형 CTF**로 학습하는 오픈소스 플랫폼  
+  <sub>Prompt Injection, Training Data Poisoning, Overreliance 등 핵심 취약 시나리오를 과제로 제공하고, 자동 채점/리포트까지 지원.</sub>
+
+---
+
+## 📝 Publications
+
+- **Design and Implementation of a Security Vulnerability Practice Testbed in Agentic LLM Environments** — *2nd Author*, **WISA 2025 Poster**  
+
+---
 
 ## 🧰 Tech Stack
 <p>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C">&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#">&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">&nbsp;
 
   <!-- ML / DL -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">&nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras">&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">&nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white" alt="Matplotlib">&nbsp;
 
   <!-- CV / Scientific -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">&nbsp;
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA">&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">&nbsp;
 
   <!-- Dev / Ops -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" alt="Anaconda">&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">&nbsp;
   
   <!-- Backend / Apps -->
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">&nbsp;
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">&nbsp;
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=transparent&rank_icon=github" />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=transparent&langs_count=8&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=skguskim&theme=transparent&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=skguskim&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
+
 ## ✨ Highlights
 
-- 🧠 {프로젝트/논문/대회}: 핵심 기여 {한 줄}
-
-- 📦 {오픈소스/라이브러리}: {설명}
-
-- 🏆 {수상/성과}: {설명}
-
-
+- 🧠 **HackLLM**: OWASP LLM Top 10을 **CTF 과제**로 설계·구현, 자동 채점/리포트 파이프라인 구축
+- 📝 **WISA 2025 Poster(2저자)**: *Agentic LLM 환경 보안 취약성 실습 테스트베드* 제안 및 구현
+- 🏆 **성과**: 2023 하계 인공지능 SCI 부트캠프 **최우수상** — 인공지능을 통한 음성인식 응용 서비스 개발
 
 > 더 많은 프로젝트는 아래 **Pinned Repositories**를 확인해 주세요!
 
 ---
 
 ## 📂 Featured Work
-- **{Repo 1}** — {한 줄 설명} · [코드](https://github.com/skguskim/{repo1}) · [데모/문서](#)
-- **{Repo 2}** — {한 줄 설명} · [코드](https://github.com/skguskim/{repo2}) · [데모/문서](#)
-- **{Repo 3}** — {한 줄 설명} · [코드](https://github.com/skguskim/{repo3}) · [데모/문서](#)
+- **HackLLM** — LLM 보안 취약점 **CTF 학습 플랫폼** · [코드](https://github.com/skguskim/HackLLM)
+- **DL_Project** — 딥러닝 실험 템플릿(재현성 스크립트, 로깅) · [코드](https://github.com/skguskim/DL_Project)
 
-<details>
-<summary><b>🔎 더 보기</b></summary>
-
-- **{Repo 4}** — {한 줄 설명} · [코드](https://github.com/skguskim/{repo4})
-- **{Repo 5}** — {한 줄 설명} · [코드](https://github.com/skguskim/{repo5})
-
-</details>
 
 ---
 
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/skguskim">skguskim</a></sub><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" alt="divider"/>
 </p>
