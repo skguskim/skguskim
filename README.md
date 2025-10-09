@@ -90,7 +90,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.readme.io/?user=skguskim&theme=tokyonight" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.wovos.dev/?user=skguskim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 
 ## 📂 Featured Work
 - **HackLLM** — LLM 보안 취약점 **CTF 학습 플랫폼** · [코드](https://github.com/skguskim/HackLLM)
-- **DL_Project** — 딥러닝 실험 템플릿(재현성 스크립트, 로깅) · [코드](https://github.com/skguskim/DL_Project)
+- **DL_Project** — 느티나무 질병 분류 모델 개발 · [코드](https://github.com/skguskim/DL_Project)
 
 
 ---
