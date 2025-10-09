@@ -64,7 +64,6 @@
   <!-- CV / Scientific -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">&nbsp;
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA">&nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">&nbsp;
 
