@@ -32,7 +32,6 @@
 
 - **A.i.n.g 학술 동아리**  *2022.02 ~ 2023.12*
   - 학과 학술 동아리, 보안 스터디 팀장
-  - 적대적 공격 모델(Adversarial Attack) 관련 프로젝트 진행
 
 
 ## 🧰 Tech Stack
@@ -50,7 +49,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-EE0000?logo=xgboost&logoColor=white">&nbsp;
 
   <!-- CV / Scientific -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">&nbsp;
