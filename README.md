@@ -35,7 +35,7 @@
 
 - **HackLLM — 해킹하며 배우는 LLM 보안 (오픈소스)**  *2025.05 ~ 2025.08*  
   OWASP LLM Top 10 취약점을 **실습형 CTF**로 학습하는 오픈소스 플랫폼  
-  <sub>Prompt Injection,  Data Poisoning 등 핵심 취약 시나리오를 개념 및 문제로 제시 및 리더보드 지원원
+  <sub>Prompt Injection,  Data Poisoning 등 핵심 취약 시나리오를 개념 및 문제로 제시 및 리더보드 지원
 
 ---
 
