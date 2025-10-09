@@ -86,11 +86,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" />
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=tokyonight)
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=skguskim&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.readme.io/?user=skguskim&theme=transparent&hide_border=false" />
 </p>
 
 ---
