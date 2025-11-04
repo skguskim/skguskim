@@ -81,14 +81,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">&nbsp;
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skguskim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skguskim&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
-</p>
-
 
 ---
 
