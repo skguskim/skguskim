@@ -31,6 +31,13 @@
 
 ---
 
+## 🚩 CTF (Capture The Flag)
+
+- **2025 ACDC (AI Cyber Defense Contest)**: 16th (Team 욱끼끼즈)
+- **2025 FIESTA**: 5 Solved (Individual)
+
+---
+
 ## ⚡ Projects
 
 - **HackLLM — 해킹하며 배우는 LLM 보안 (오픈소스)**  *2025.05 ~ 2025.08*  
