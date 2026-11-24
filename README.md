@@ -1,9 +1,14 @@
 <p align="center">
-  <a href="mailto:skguskim@g.seoultech.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/skguskim/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"></a>
-  <a href="https://skguskim.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tech%20Notes-black?logo=tistory" alt="Blog"></a>
+  <a href="mailto:skguskim@g.seoultech.ac.kr">
+    <img src="https://img.shields.io/badge/Email-Contact-informational.svg?logo=gmail&amp;logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/skguskim/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+  </a>
+  <a href="https://skguskim.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-Tech%20Notes-black.svg?logo=tistory&amp;logoColor=white" alt="Tistory Blog">
+  </a>
 </p>
-
 ---
 
 ## 👋 Hi there
